@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f49c4aa-ffe7-434b-a95e-59bae138a5e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vCshDt52cNuIEt3jNuXPApK186" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f49c4aa-ffe7-434b-a95e-59bae138a5e0" name="Default Changelist" comment="" />
+      <created>1626077521247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626077521247</updated>
+      <workItem from="1626077522784" duration="85000" />
+      <workItem from="1626077702946" duration="4281000" />
+      <workItem from="1626155335166" duration="3793000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="245" y="113" width="524" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1626159581543">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="245" y="113" width="524" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1024.728@0.0.1024.728" timestamp="1626159581543" />
+    <state x="325" y="287" width="354" height="141" key="NewPhpFileDialog" timestamp="1626159619808">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="325" y="287" width="354" height="141" key="NewPhpFileDialog/0.0.1024.728@0.0.1024.728" timestamp="1626159619808" />
+    <state x="195" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1626155346321">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="195" y="191" key="com.intellij.ide.util.TipDialog/0.0.1024.728@0.0.1024.728" timestamp="1626155346321" />
+  </component>
+</project>
